@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+}
+#botoes{
+    width: 400px;
+    height: 100px;
+    margin:auto;
+}
+
+#botaored{
+    height: 80px;
+    width: 100px;
+    box-shadow: -2px 2px 0px gray, -4px 4px 0 black;
+    margin-right: 15px;
+    margin-top: 100px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    font: bold 15pt Calibri;
+}
+#botaored:active{
+    height: 70px;
+    width: 90px;
+    font: bold 13pt Calibri;
+    box-shadow: -2px -px 0px gray, -4px 4px 0 black;
+}
+
+#botaoblue{
+    height: 80px;
+    width: 100px;
+    box-shadow: -2px 2px 0px gray, -4px 4px 0 black;
+    margin-right: 15px;
+    margin-top: 100px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    font: bold 15pt Calibri;
+}
+#botaoblue:active{
+    height: 70px;
+    width: 90px;
+    font: bold 13pt Calibri;
+    box-shadow: -2px -px 0px gray, -4px 4px 0 black;
+}
+
+#botaogreen{
+    height: 80px;
+    width: 100px;
+    box-shadow: -2px 2px 0px gray, -4px 4px 0 black;
+    margin-right: 15px;
+    margin-top: 100px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    font: bold 15pt Calibri;
+}
+#botaogreen:active{
+    height: 70px;
+    width: 90px;
+    font: bold 13pt Calibri;
+    box-shadow: -2px -px 0px gray, -4px 4px 0 black;
+}
+
+#botaoreset{
+    height: 80px;
+    width: 100px;
+    box-shadow: -2px 2px 0px gray, -4px 4px 0 black;
+    margin-right: 15px;
+    margin-top: 100px;
+    background-color: rgb(40, 40, 40);
+    color: white;
+    font: bold 15pt Calibri;
+}
+#botaoreset:active{
+    height: 70px;
+    width: 90px;
+    font: bold 13pt Calibri;
+    box-shadow: -2px -px 0px gray, -4px 4px 0 black;
+}
